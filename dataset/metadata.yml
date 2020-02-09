@@ -1,6 +1,5 @@
 name: Currency Exchange Rate
-description: |
-  Currency exchange rate from central european bank on 2020-02-05.
+description: Currency exchange rate from central european bank on 2020-02-05.
 contributors:
   - name: Miao
 data:
